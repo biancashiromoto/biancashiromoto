@@ -16,7 +16,7 @@ Meu nome é Bianca, sou de São Paulo e aos 17 anos me mudei para Botucatu/SP, o
 <br><br>
 Após voltar para São Paulo, concluí uma pós-graduação em medicina intensiva e, após sete anos de atuação, tomei a decisão de fazer uma transição de carreira para a área de tecnologia, para combinar minha paixão por solução de problemas com a criação de algo que impacte na vida das pessoas de uma forma universal e acessível. 
 <br><br>
-Sinta-se à vontade para explorar meus repositórios e meu <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, e se tiver alguma sugestão ou feedback, eu adoraria recebê-los pelo meu <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
+Sinta-se à vontade para explorar meus repositórios e meu <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, e se tiver alguma sugestão ou feedback, eu ficaria feliz em recebê-los pelo meu <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
 <hr>
 
