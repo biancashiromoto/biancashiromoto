@@ -20,7 +20,7 @@ Sinta-se à vontade para explorar meus repositórios e meu <a href="https://bian
 
 <hr>
 
-## 🧰 My toolkit box
+## 🧰 My techonology toolkit
 
 ### Programming languages/Linguagens de programação:
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
