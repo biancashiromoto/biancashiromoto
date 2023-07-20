@@ -3,18 +3,15 @@
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancashiromoto"> -->
 
 ## 🇺🇸 About me
-My name is Bianca, I'm from São Paulo and at the age of 17 I moved to Botucatu/SP, where I graduated in Veterinary Medicine and completed a residency in anesthesiology at Unesp.
+My name is Bianca, I am a former veterinarian and currently a Frontend Web Developer, on the road to becoming a Full-stack Developer. 
 <br><br>
-After returning to São Paulo, I completed a postgraduate program in intensive care and, after seven years of work in the field, I made the decision to transition my career to the technology industry in order to combine my passion for problem-solving with creating something that positively impacts people's lives in an universal and accessible way.
 <br><br>
 Feel free to explore my repositories and my <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, and if you have any suggestions or feedbacks, I would be happy to recieve them through <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
 <hr>
 
 ## 🇧🇷 Sobre mim
-Meu nome é Bianca, sou de São Paulo e aos 17 anos me mudei para Botucatu/SP, onde me formei em Medicina Veterinária e concluí residência em anestesiologia pela Unesp.
-<br><br>
-Após voltar para São Paulo, concluí uma pós-graduação em medicina intensiva e, após sete anos de atuação, tomei a decisão de fazer uma transição de carreira para a área de tecnologia, para combinar minha paixão por solução de problemas com a criação de algo que impacte na vida das pessoas de uma forma universal e acessível. 
+Meu nome é Bianca, me formei em veterinária e atualmente sou Desenvolvedora Web Frontend, a caminho de me tornar uma Desenvolvedora Full-stack.
 <br><br>
 Sinta-se à vontade para explorar meus repositórios e meu <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, e se tiver alguma sugestão ou feedback, eu ficaria feliz em recebê-los pelo meu <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
