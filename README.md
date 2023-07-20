@@ -1,7 +1,5 @@
 # Hello and welcome to my GitHub!
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancashiromoto"> -->
-
 ## 🇺🇸 About me
 My name is Bianca, I am a former veterinarian and currently a Frontend Web Developer, on the road to becoming a Full-stack Developer. 
 <br><br>
@@ -15,6 +13,8 @@ Meu nome é Bianca, me formei em veterinária e atualmente sou Desenvolvedora We
 Sinta-se à vontade para explorar meus repositórios e meu <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, e se tiver alguma sugestão ou feedback, eu ficarei feliz em recebê-los pelo meu <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
 <hr>
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancashiromoto&layout=compact)-->
 
 ## 🧰 My techonology toolkit/Tecnologias conhecidas
 
