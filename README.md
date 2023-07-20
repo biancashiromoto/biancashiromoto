@@ -12,7 +12,7 @@ Feel free to explore my repositories and my <a href="https://biancashiromoto.git
 ## 🇧🇷 Sobre mim
 Meu nome é Bianca, me formei em veterinária e atualmente sou Desenvolvedora Web Frontend, a caminho de me tornar uma Desenvolvedora Full-stack.
 <br><br>
-Sinta-se à vontade para explorar meus repositórios e meu <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, e se tiver alguma sugestão ou feedback, eu ficaria feliz em recebê-los pelo meu <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
+Sinta-se à vontade para explorar meus repositórios e meu <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, e se tiver alguma sugestão ou feedback, eu ficarei feliz em recebê-los pelo meu <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
 <hr>
 
