@@ -5,7 +5,6 @@
 ## 🇺🇸 About me
 My name is Bianca, I am a former veterinarian and currently a Frontend Web Developer, on the road to becoming a Full-stack Developer. 
 <br><br>
-<br><br>
 Feel free to explore my repositories and my <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, and if you have any suggestions or feedbacks, I would be happy to recieve them through <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
 <hr>
