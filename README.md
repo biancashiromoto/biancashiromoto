@@ -12,7 +12,7 @@ Sinta-se à vontade para explorar meus repositórios e meu <a href="https://bian
 
 <hr>
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancashiromoto&layout=compact)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancashiromoto&layout=compact)
 
 ## 🧰 My techonology toolkit/Tecnologias conhecidas
 
