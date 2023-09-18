@@ -1,4 +1,5 @@
 <div align="center">
+  
 ## Hello and welcome to my GitHub!
 My name is Bianca, I am a former veterinarian and currently a Frontend Web Developer, on the road to becoming a Full-stack Developer. 
 <br><br>
