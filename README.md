@@ -13,6 +13,7 @@ Meu nome é Bianca, me formei em Medicina Veterinária e atualmente sou Desenvol
 Sinta-se à vontade para explorar meus repositórios e meu <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, e se tiver alguma sugestão ou feedback, eu ficarei feliz em recebê-los pelo meu <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
 <hr>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancashiromoto&layout=compact)
 
 ## 🧰 My techonology toolkit/Tecnologias conhecidas
@@ -27,6 +28,7 @@ Sinta-se à vontade para explorar meus repositórios e meu <a href="https://bian
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)]()
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
+[![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)]()
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]()
 
 ### Tools and platforms/Ferramentas e plataformas:
