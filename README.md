@@ -3,7 +3,7 @@
 ## Hello and welcome to my GitHub!
 My name is Bianca, I am a former veterinarian and a Full-stack Developer. 
 <br><br>
-Feel free to explore my repositories and my <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, and if you have any suggestions or feedbacks, I would be happy to recieve them through <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
+Feel free to explore my repositories and my <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, and if you have any suggestions or feedbacks, I would be happy to receive them through <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
 <hr>
 
