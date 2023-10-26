@@ -1,14 +1,14 @@
 <div align="center">
   
 ## Hello and welcome to my GitHub!
-My name is Bianca, I am a former veterinarian and a Full-stack Developer. 
+My name is Bianca, I am a former veterinarian and a Full-stack Web Developer. 
 <br><br>
 Feel free to explore my repositories and my <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, and if you have any suggestions or feedbacks, I would be happy to receive them through <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
 <hr>
 
 ## Olá e bem-vinda(o) ao meu GitHub!
-Meu nome é Bianca, me formei em Medicina Veterinária e atualmente sou Desenvolvedora Full-stack.
+Meu nome é Bianca, me formei em Medicina Veterinária e atualmente sou Desenvolvedora Web Full-stack.
 <br><br>
 Sinta-se à vontade para explorar meus repositórios e meu <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, e se tiver alguma sugestão ou feedback, eu ficarei feliz em recebê-los pelo meu <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
