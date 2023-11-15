@@ -2,37 +2,32 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://media1.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif">  
-  <img align="right" alt="GIF" src=""  width="200px" height="200px"/>
+  <img align="center" alt="GIF" src=""  width="125px" height="125px"/>
 </picture>
-
-<div align="right">
-  
-  ![](https://komarev.com/ghpvc/?username=biancashiromoto)
-</div>
-
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=biancashiromoto&hide=contribs,issues,stars&rank_icon=github&hide_border=true&show_icons=true&icon_color=FFF&bg_color=22272E&title_color=ADBAC7&text_color=ADBAC7&include_all_commits=true&count_private=true)
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=biancashiromoto&hide=html,css&hide_border=true&show_icons=true&bg_color=22272E&title_color=ADBAC7&text_color=ADBAC7&layout=compact&langs_count=6)
 
 </div>
 
 <hr>
 
+
 <div align="center">
   
 ## Hello and welcome to my GitHub!
-My name is Bianca, I am a former veterinarian and a Full-stack Web Developer. 
+My name is Bianca, I am a former veterinarian, a crazy cat lady, a bookworm, a gym rat and a Full-stack Web Developer. 
 <br><br>
 Feel free to explore my repositories and my <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, and if you have any suggestions or feedbacks, I would be happy to receive them through <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
 <hr>
 
 ## Olá e bem-vinda(o) ao meu GitHub!
-Meu nome é Bianca, me formei em Medicina Veterinária e atualmente sou Desenvolvedora Web Full-stack.
+Meu nome é Bianca, me formei em Medicina Veterinária e sou uma <i>crazy cat lady</i>, uma devoradora de livros, rata de academia e Desenvolvedora Web Full-stack.
 <br><br>
 Sinta-se à vontade para explorar meus repositórios e meu <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, e se tiver alguma sugestão ou feedback, eu ficarei feliz em recebê-los pelo meu <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
 <hr>
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=biancashiromoto&hide=contribs,issues,stars&rank_icon=github&hide_border=true&show_icons=true&icon_color=FFF&bg_color=22272E&title_color=ADBAC7&text_color=ADBAC7&include_all_commits=true&count_private=true&card_width=300px)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=biancashiromoto&hide=html,css&hide_border=true&show_icons=true&bg_color=22272E&title_color=ADBAC7&text_color=ADBAC7&layout=compact&langs_count=6)
 
 ## 🧰 My techonology toolkit/Tecnologias conhecidas
 
@@ -69,4 +64,7 @@ Sinta-se à vontade para explorar meus repositórios e meu <a href="https://bian
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)]()
 [![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 
+<hr>
+
+![](https://komarev.com/ghpvc/?username=biancashiromoto)
 </div>
