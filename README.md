@@ -1,4 +1,24 @@
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://media1.giphy.com/media/H1dxi6xdh4NGQCZSvz/giphy.gif">  
+  <img align="right" alt="GIF" src=""  width="200px" height="200px"/>
+</picture>
+
+<div align="right">
+  
+  ![](https://komarev.com/ghpvc/?username=biancashiromoto)
+</div>
+
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=biancashiromoto&hide=contribs,issues,stars&rank_icon=github&hide_border=true&show_icons=true&icon_color=FFF&bg_color=22272E&title_color=ADBAC7&text_color=ADBAC7&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=biancashiromoto&hide=html,css&hide_border=true&show_icons=true&bg_color=22272E&title_color=ADBAC7&text_color=ADBAC7&layout=compact&langs_count=6)
+
+</div>
+
+<hr>
+
+<div align="center">
   
 ## Hello and welcome to my GitHub!
 My name is Bianca, I am a former veterinarian and a Full-stack Web Developer. 
@@ -13,8 +33,6 @@ Meu nome é Bianca, me formei em Medicina Veterinária e atualmente sou Desenvol
 Sinta-se à vontade para explorar meus repositórios e meu <a href="https://biancashiromoto.github.io/" target="_blank">portfolio</a>, e se tiver alguma sugestão ou feedback, eu ficarei feliz em recebê-los pelo meu <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
 <hr>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biancashiromoto&layout=compact)
 
 ## 🧰 My techonology toolkit/Tecnologias conhecidas
 
