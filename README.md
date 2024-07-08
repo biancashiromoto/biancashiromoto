@@ -42,6 +42,7 @@ Sinta-se à vontade para explorar meus repositórios e meu <a href="https://bian
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]()
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 
 ### Testing tools/Ferramentas de testes:
 ![Chai](https://img.shields.io/badge/-chai-%23E5E5E5?style=for-the-badge&logo=chai&logoColor=853232)
