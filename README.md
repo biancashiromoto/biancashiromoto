@@ -44,6 +44,8 @@ Sinta-se à vontade para explorar meus repositórios e meu <a href="https://bian
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]()
 [![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]()
+[![ShadCN/UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)]()
+
 
 ### Testing tools/Ferramentas de testes:
 ![Chai](https://img.shields.io/badge/-chai-%23E5E5E5?style=for-the-badge&logo=chai&logoColor=853232)
